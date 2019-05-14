@@ -12,6 +12,7 @@ public class Landconverter {
 		
 		System.out.println("how many sqr feet?");
 		int squareFeet =keyboard.nextInt();
+		//int squareFeet =keyboard.nextDouble();
 		//double acres=(double)squareFeet/43560;//to get result in double
 		// double acres =squareFeet/43560;
 		//final double acres_to_feet=43560;
